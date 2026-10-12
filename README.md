@@ -24,3 +24,4 @@ rag-application/
 ├── notebooks/ # Jupyter notebooks for exploration
 └── logs/ # Application logs
 .
+.
