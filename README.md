@@ -25,3 +25,4 @@ rag-application/
 └── logs/ # Application logs
 .
 .
+.
